@@ -20,8 +20,8 @@ body
 }
 #cabecera #logo
 {
-width: 25px;
-vertical-align: bottom;
+    width: 25px;
+    vertical-align: bottom;
 }
 
 #cabecera #tagline
